@@ -3,7 +3,7 @@ title: Data-structures
 tags: [algorithms]
 category: Default
 date: 2023-1-21
-released: false
+released: true
 ---
 
 # 数据结构
