@@ -1,3 +1,13 @@
+---
+title: Data-structures
+tags: [algorithms]
+category: Default
+date: 2023-1-21
+released: false
+---
+
+# 数据结构
+
 https://www.luogu.com.cn/problem/P5490 [线段树 - 扫描线模板]
 https://www.luogu.com.cn/problem/P1502 [线段树 - 扫描线变形]
 https://www.luogu.com.cn/problem/P1502 [分块解决线段树问题]
